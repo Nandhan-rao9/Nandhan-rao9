@@ -17,8 +17,9 @@
 ## GitHub Contribution Streak 🔥
 <br>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nandhan-rao9&theme=blueberry-duo&border_radius=10" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com/?user=Nandhan-rao9&theme=blueberry-duo&border_radius=10" alt="GitHub Streak"/>
 </p>
+
 
 
 <hr><br>
