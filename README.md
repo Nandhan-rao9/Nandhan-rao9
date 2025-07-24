@@ -17,8 +17,10 @@
 
 ## GitHub Contribution Streak 🔥
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=Nandhan-rao9&theme=blueberry-duo&border_radius=10)
 
+<p align="center">
+<img src="https://streak-stats.demolab.com/?user=Nandhan-rao9&theme=blueberry-duo&border_radius=10" alt="GitHub Streak"/>
+</p>
 ---
 
 
