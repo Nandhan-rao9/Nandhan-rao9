@@ -29,7 +29,6 @@
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Nandhan-rao9&show_icons=true&locale=en&layout=compact" alt="nandhanrao" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Nandhan-rao9&show_icons=true&locale=en" alt="nandhanrao" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Nandhan-rao9&" alt="nandhanrao" /></p>
 
 
