@@ -4,7 +4,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=200&center=true&vCenter=true&width=500&height=100&lines=I'm+Nandhan+Rao;AI/ML+%7C+Cloud+Tech;3x+Hackathon+Winner+%7C+Open+Source;President,+Cloud+Community+Club;Always+Learning%2C+Always+Building;Let's+Build+Something+Cool!;%40Nandhan-rao9"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=200&center=true&vCenter=true&width=500&height=100&lines=I'm+Nandhan+Rao;AI/ML+%7C+Cloud+Tech;3x+Hackathon+Winner+%7C+Open+Source;Always+Learning%2C+Always+Building;Let's+Build+Something+Cool!;%40Nandhan-rao9"/>
 </p>
 
 <p align="center">
