@@ -3,7 +3,7 @@
 <h1 align="center">Hi, I'm Nandhan Rao 👋</h1>
 
 <p align="center">
-  <b>Final-year ECM @ SNIST</b> · SDE-1 Aspirant · Systems & Cloud Enthusiast  
+  <b>ECM @ SNIST</b>  · Systems & Cloud Enthusiast  
 </p>
 
 <p align="center">
@@ -16,7 +16,7 @@
 - Strong interest in **scalable backend systems**, **cloud infra**, and **problem solving**
 - **3× National Hackathon winner**
 - **LeetCode 1780+ rating (Top ~8%)**
-- Lead & built multiple **production-deployed** full-stack systems
+- Lead & built multiple **deployed** full-stack systems
 
 ---
 
@@ -27,7 +27,4 @@ Backend       : Flask, REST APIs, Gunicorn
 Frontend      : React, TailwindCSS
 Databases     : MongoDB, MySQL
 Cloud & DevOps: Linux, Nginx, Docker, AWS / Azure
-Tools         : Git, Firebase, Vite
-
-
-
+Tools         : Git, postman
