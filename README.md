@@ -1,4 +1,3 @@
-<!-- Dark • Minimal • Tech-centric -->
 
 <h1 align="center">Hi, I'm Nandhan Rao 👋</h1>
 
