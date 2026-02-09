@@ -16,6 +16,7 @@
 - **3× National Hackathon winner**
 - **LeetCode 1780+ rating (Top ~8%)**
 - Lead & built multiple **deployed** full-stack systems
+- portfolio: https://nandhanrao.vercel.app
 
 ---
 
